@@ -1,7 +1,7 @@
 {
     "name": "php7plus/zendframework1",
     "description": "Adjusted Zend Framework 1 for php 7 greater than 7.1",
-	"version": 1.12.1,
+	"version": "1.12.1",
     "type": "library",
     "keywords": [
         "framework",
